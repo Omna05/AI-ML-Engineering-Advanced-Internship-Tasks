@@ -1,6 +1,0 @@
-DevelopersHub Internship Program
-
-The internship focuses on AI, Machine Learning, and Data Science.
-Interns work on real-world projects including NLP, chatbots, and data analysis.
-The duration of the internship is 8 weeks.
-Certificates are provided after successful completion.
